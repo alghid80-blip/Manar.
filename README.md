@@ -1,1 +1,1 @@
-# Manar.
+# Manar.HealthUp is a smart wellness and productivity app that helps users stay healthy, focused, and motivated. It tracks daily habits like sleep, meals, water, and exercise, while also helping with study and work planning. The app uses AI to create personalized schedules, reminders, and wellness tips, making it easier to build a balanced and productive lifestyle.
